@@ -1,10 +1,23 @@
 # Sliction
 
+A simple Slide to Action view for iOS, written in [Swift](https://www.swift.org/) 
+
 ##
 - [🌟 Features](#-features)
 - [📲 Installation](#-installation)
 - [👨🏻‍💻 Author](#-author)
 - [👮🏻 License](#-license)
+
+## 🌟 Features
+
+* Easy to use
+* Fancy animations 🦄
+* Works out of the box, no customization needed
+* Universal (iPhone & iPad)
+* Simple Swift syntax
+* Lightweight readable codebase
+* Fully customizable
+* Interface Builder friendly
 
 ## 📲 Installation
 
